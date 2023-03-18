@@ -1,6 +1,6 @@
 # Student Result Management System
 
-
+Result management is a crucial part of every educational institution. Therefore every university requires an efficient student result management system to avoid delay and inaccuracy in the results of students.Managing the data for a large number of students can be tedious task but not with our project. Our project gives a smooth and seamless experience to the faculty for entering the marks of students in the portal as well as calculating and displaying the final result.
 
 
 
@@ -19,5 +19,5 @@
 
 
 - Back End - **Python**
-- Database - **MySql** **Sqlite3**
+- Database - **MySql**,**Sqlite3**
 
