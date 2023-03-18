@@ -113,7 +113,7 @@ Roll no is required to search for a particular Student record
 ![update roll no  req](https://user-images.githubusercontent.com/43770452/226126674-0f2a920b-c730-4f12-817e-b631f43bd197.png)
 
 
-Student record searched successfully using roll no feature
+Student record searched successfully using Roll No feature
 ![student search](https://user-images.githubusercontent.com/43770452/226126872-3e287a34-cf92-4344-a810-86ab7d6adb54.png)
 
 
