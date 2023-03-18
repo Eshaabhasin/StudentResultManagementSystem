@@ -5,23 +5,23 @@ Result management is a crucial part of every educational institution. Therefore 
 
 ## Features
 
--Searching of Course Details
+- Searching of Course Details
 
--Adding of Course Details
+- Adding of Course Details
 
--Updating of Course Details
+- Updating of Course Details
 
--Adding Student Details
+- Adding Student Details
 
--Updating Student Details 
+- Updating Student Details 
 
--Deleting Student Details
+- Deleting Student Details
 
--Adding  result of the  Student
+- Adding  result of the  Student
 
--Searching result of the Student
+- Searching result of the Student
 
--Calculating  result of the Student
+- Calculating  result of the Student
 
 
 
