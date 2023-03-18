@@ -56,9 +56,11 @@ For a new Registration you need to fill in certain information.
 ![login invalid](https://user-images.githubusercontent.com/43770452/226124248-86e367a5-ab0e-4552-b0dd-36af6eb1efa0.png)
 
 
-
+Password and Confirmed password should be same
 
 ![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png)
+
+
 
 
 
