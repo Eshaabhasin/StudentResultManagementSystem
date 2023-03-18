@@ -51,7 +51,7 @@ For a new Registration you need to fill in certain information.
 
 ![registration ](https://user-images.githubusercontent.com/43770452/226121409-8caaf36e-dd23-4788-b96d-5cf020fe238f.png)
 
-
+## Only an already registered user will be able to Login
 
 ![login invalid](https://user-images.githubusercontent.com/43770452/226124248-86e367a5-ab0e-4552-b0dd-36af6eb1efa0.png)
 
