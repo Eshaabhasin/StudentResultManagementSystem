@@ -39,11 +39,6 @@ Result management is a crucial part of every educational institution. Therefore 
 
 
 
-## DASHBOARD
-
-The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
-
-![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png)
 
 
 ## Login Portal
@@ -56,4 +51,10 @@ For a new Registration you need to fill in certain information.
 
 ![registration ](https://user-images.githubusercontent.com/43770452/226121409-8caaf36e-dd23-4788-b96d-5cf020fe238f.png)
 
+
+## DASHBOARD
+
+The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
+
+![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png)
 
