@@ -3,10 +3,25 @@
 Result management is a crucial part of every educational institution. Therefore every university requires an efficient student result management system to avoid delay and inaccuracy in the results of students.Managing the data for a large number of students can be tedious task but not with our project. Our project gives a smooth and seamless experience to the faculty for entering the marks of students in the portal as well as calculating and displaying the final result.
 
 
+## Features
 
+-Searching of Course Details
 
+-Adding of Course Details
 
+-Updating of Course Details
 
+-Adding Student Details
+
+-Updating Student Details 
+
+-Deleting Student Details
+
+-Adding  result of the  Student
+
+-Searching result of the Student
+
+-Calculating  result of the Student
 
 
 
