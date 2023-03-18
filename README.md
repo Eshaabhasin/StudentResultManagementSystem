@@ -52,6 +52,28 @@ For a new Registration you need to fill in certain information.
 ![registration ](https://user-images.githubusercontent.com/43770452/226121409-8caaf36e-dd23-4788-b96d-5cf020fe238f.png)
 
 
+
+![login invalid](https://user-images.githubusercontent.com/43770452/226124248-86e367a5-ab0e-4552-b0dd-36af6eb1efa0.png)
+
+
+
+![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## DASHBOARD
 
 The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
