@@ -57,12 +57,13 @@ For a new Registration you need to fill in certain information.
 
 
 
+
 ![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png)
 
 
 
 
-All 
+All fields are required to proceed.
 
 ![login all field req](https://user-images.githubusercontent.com/43770452/226124459-96bb14c7-cc02-49b9-8bed-0761f298e849.png)
 
