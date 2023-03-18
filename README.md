@@ -86,3 +86,20 @@ The main Dashboard has features of Course,Student Details,Student Marks,View Res
 
 ![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png)
 
+
+
+
+## STUDENT DETAILS
+
+![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png)
+
+Creating a new student record with Valid Data
+
+
+![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png)
+
+Displaying Existing Student Records
+
+![student updated](https://user-images.githubusercontent.com/43770452/226126413-ab2203be-e9ec-41be-8dca-87120e1c627a.png)
+
+
