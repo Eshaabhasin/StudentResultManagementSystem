@@ -37,18 +37,23 @@ Result management is a crucial part of every educational institution. Therefore 
 - Database - **MySql**,**Sqlite3**
 
 
-## Login Portal
-
-The Login Portal asks for your Email Address and Password for login.If you have not registered previously then you need to create an account by writing your email address and password.
-
-![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)
 
 
 ## DASHBOARD
 
-The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout,Exit
+The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
 
 ![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png)
 
+
+## Login Portal
+
+The Login Portal asks for your Email Address and Password for login.
+
+![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)
+
+For a new Registration you need to fill in certain information.
+
+![registration ](https://user-images.githubusercontent.com/43770452/226121409-8caaf36e-dd23-4788-b96d-5cf020fe238f.png)
 
 
