@@ -91,15 +91,29 @@ The main Dashboard has features of Course,Student Details,Student Marks,View Res
 
 ## STUDENT DETAILS
 
-![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png)
-
 Creating a new student record with Valid Data
 
+![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png)
 
-![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png)
 
 Displaying Existing Student Records
 
+![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png)
+
+Updating an existing record with new data
+
 ![student updated](https://user-images.githubusercontent.com/43770452/226126413-ab2203be-e9ec-41be-8dca-87120e1c627a.png)
+
+Deleting an existing student record
+
+![student delete](https://user-images.githubusercontent.com/43770452/226126620-70e7a7a7-f223-4eb6-8523-4e86cb8ef64e.png)
+
+Roll no is required to search for a particular Student record
+
+![update roll no  req](https://user-images.githubusercontent.com/43770452/226126674-0f2a920b-c730-4f12-817e-b631f43bd197.png)
+
+
+Student record searched successfully using roll no feature
+![student search](https://user-images.githubusercontent.com/43770452/226126872-3e287a34-cf92-4344-a810-86ab7d6adb54.png)
 
 
