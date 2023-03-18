@@ -37,7 +37,10 @@ Result management is a crucial part of every educational institution. Therefore 
 - Database - **MySql**,**Sqlite3**
 
 
-##Login Page
+## Login Portal
 
-![login page](https://user-images.githubusercontent.com/43770452/226120204-41af5730-1fcf-42f0-aa81-fb9721f40ddc.png)
+The Login Portal asks for your Email Address and Password for login.
+
+![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)
+
 
