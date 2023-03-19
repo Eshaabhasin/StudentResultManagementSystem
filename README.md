@@ -117,3 +117,11 @@ Student record searched successfully using Roll No feature
 ![student search](https://user-images.githubusercontent.com/43770452/226126872-3e287a34-cf92-4344-a810-86ab7d6adb54.png)
 
 
+
+
+## Course Details
+
+
+Adding Course Details 
+
+![course added](https://user-images.githubusercontent.com/43770452/226149292-56244b9b-8bbe-41b8-b1ab-e1f01b1997e9.png)
