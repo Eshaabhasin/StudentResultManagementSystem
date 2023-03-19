@@ -59,52 +59,18 @@ Result management is a crucial part of every educational institution. Therefore 
 
 
 
-## STUDENT DETAILS
+## STUDENT RECORDS PORTAL
 
-## Creating a new student record with Valid Data
-
-![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png) <br><br>
+![student detail](https://user-images.githubusercontent.com/43770452/226155023-40f1b665-7876-4720-b172-1380ca70bae1.png) <br><br>
 
 
-## Displaying Existing Student Records
-
-![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png) <br><br>
-
-## Updating an existing record with new data
-
-![student updated](https://user-images.githubusercontent.com/43770452/226126413-ab2203be-e9ec-41be-8dca-87120e1c627a.png) <br><br>
-
-## Deleting an existing student record
-
-![student delete](https://user-images.githubusercontent.com/43770452/226126620-70e7a7a7-f223-4eb6-8523-4e86cb8ef64e.png) <br><br>
-
-## Roll no is required to search for a particular Student record
-
-![update roll no  req](https://user-images.githubusercontent.com/43770452/226126674-0f2a920b-c730-4f12-817e-b631f43bd197.png) <br><br>
-
-## Student record searched successfully using Roll No feature
-![student search](https://user-images.githubusercontent.com/43770452/226126872-3e287a34-cf92-4344-a810-86ab7d6adb54.png)<br><br>
 
 
 
 
 ## Course Details
 
-## Displaying Course Details
 
 ![course](https://user-images.githubusercontent.com/43770452/226152856-363e1085-1906-42f7-8c69-f364f2590bc2.png)<br><br>
 
-## Adding Course Details 
 
-![course added](https://user-images.githubusercontent.com/43770452/226149292-56244b9b-8bbe-41b8-b1ab-e1f01b1997e9.png) <br><br>
-
-
-## Course Details Successfully searched using Course name
-
-![cs search  (1)](https://user-images.githubusercontent.com/43770452/226149332-8df13aca-9ade-48e7-93e1-1bab43fe1051.png)<br><br>
-
-
-## Course name is required for searching details of course
-
-
-![course name req in update](https://user-images.githubusercontent.com/43770452/226149441-d39571bf-9674-44f4-a4ee-338d81592203.png)<br><br>
