@@ -83,7 +83,7 @@ All fields are required to proceed.
 
 The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
 
-![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png) (&nbsp;  )
+![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png) <p>&nbsp;</p>
 
 
 
@@ -92,25 +92,24 @@ The main Dashboard has features of Course,Student Details,Student Marks,View Res
 
 Creating a new student record with Valid Data
 
-![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png) (&nbsp;  )
+![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png) <p>&nbsp;</p>
 
 
 Displaying Existing Student Records
 
-![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png) (&nbsp;  )
+![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png) <p>&nbsp;</p>
 
 Updating an existing record with new data
 
-![student updated](https://user-images.githubusercontent.com/43770452/226126413-ab2203be-e9ec-41be-8dca-87120e1c627a.png) (&nbsp;  )
+![student updated](https://user-images.githubusercontent.com/43770452/226126413-ab2203be-e9ec-41be-8dca-87120e1c627a.png) <p>&nbsp;</p>
 
 Deleting an existing student record
 
-![student delete](https://user-images.githubusercontent.com/43770452/226126620-70e7a7a7-f223-4eb6-8523-4e86cb8ef64e.png) (&nbsp;  )
+![student delete](https://user-images.githubusercontent.com/43770452/226126620-70e7a7a7-f223-4eb6-8523-4e86cb8ef64e.png) <p>&nbsp;</p>
 
 Roll no is required to search for a particular Student record
 
-![update roll no  req](https://user-images.githubusercontent.com/43770452/226126674-0f2a920b-c730-4f12-817e-b631f43bd197.png) (&nbsp;  )
-
+![update roll no  req](https://user-images.githubusercontent.com/43770452/226126674-0f2a920b-c730-4f12-817e-b631f43bd197.png) <p>&nbsp;</p>
 
 Student record searched successfully using Roll No feature
 ![student search](https://user-images.githubusercontent.com/43770452/226126872-3e287a34-cf92-4344-a810-86ab7d6adb54.png)(&nbsp;  )
@@ -123,15 +122,15 @@ Student record searched successfully using Roll No feature
 
 Adding Course Details 
 
-![course added](https://user-images.githubusercontent.com/43770452/226149292-56244b9b-8bbe-41b8-b1ab-e1f01b1997e9.png) (&nbsp;  )
+![course added](https://user-images.githubusercontent.com/43770452/226149292-56244b9b-8bbe-41b8-b1ab-e1f01b1997e9.png) <p>&nbsp;</p>
 
 
 Course Details Successfully searched using Course name
 
-![cs search  (1)](https://user-images.githubusercontent.com/43770452/226149332-8df13aca-9ade-48e7-93e1-1bab43fe1051.png)(&nbsp;  )
+![cs search  (1)](https://user-images.githubusercontent.com/43770452/226149332-8df13aca-9ade-48e7-93e1-1bab43fe1051.png)<p>&nbsp;</p>
 
 
 Course name is required for searching details of course
 
 
-![course name req in update](https://user-images.githubusercontent.com/43770452/226149441-d39571bf-9674-44f4-a4ee-338d81592203.png)(&nbsp;  )
+![course name req in update](https://user-images.githubusercontent.com/43770452/226149441-d39571bf-9674-44f4-a4ee-338d81592203.png)<p>&nbsp;</p>
