@@ -36,20 +36,21 @@ Result management is a crucial part of every educational institution. Therefore 
 - Back End - **Python**
 - Database - **MySql**,**Sqlite3**
 
-
-
-
-
-
-## Login Portal
-
-## The Login Portal asks for your Email Address and Password for login.
-
-![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)<br><br>
-
-## For a new Registration you need to fill in certain information.
+## Registration Portal
 
 ![registration ](https://user-images.githubusercontent.com/43770452/226121409-8caaf36e-dd23-4788-b96d-5cf020fe238f.png)<br><br>
+
+
+
+
+
+
+
+
+## The software does not allow you to proceed until all the required details are entered .
+
+![login all field req](https://user-images.githubusercontent.com/43770452/226124459-96bb14c7-cc02-49b9-8bed-0761f298e849.png) <br><br>
+
 
 ## Only an already registered user will be able to Login
 
@@ -64,10 +65,11 @@ Result management is a crucial part of every educational institution. Therefore 
 
 
 
-## All fields are required to proceed.
+## Login Portal
 
-![login all field req](https://user-images.githubusercontent.com/43770452/226124459-96bb14c7-cc02-49b9-8bed-0761f298e849.png) <br><br>
+## The Login Portal asks for your Email Address and Password for login.
 
+![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)<br><br>
 
 
 
