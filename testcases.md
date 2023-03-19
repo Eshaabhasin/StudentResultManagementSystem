@@ -120,3 +120,6 @@
 
 ![result to dash](https://user-images.githubusercontent.com/43770452/226154271-674e295d-4438-483d-9416-fa5b052c6a93.png) <br><br>
 
+# Displaying the Overall Exam Score
+
+![image](https://user-images.githubusercontent.com/43770452/226154421-53ba6e82-c346-4404-8382-88aba2ff8880.png)<br><br>
