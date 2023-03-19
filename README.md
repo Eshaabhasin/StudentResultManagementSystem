@@ -130,3 +130,9 @@ Adding Course Details
 Course Details Successfully searched using Course name
 
 ![cs search  (1)](https://user-images.githubusercontent.com/43770452/226149332-8df13aca-9ade-48e7-93e1-1bab43fe1051.png)
+
+
+Course name is required for searching details of course
+
+
+![course name req in update](https://user-images.githubusercontent.com/43770452/226149441-d39571bf-9674-44f4-a4ee-338d81592203.png)
