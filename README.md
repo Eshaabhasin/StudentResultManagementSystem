@@ -118,6 +118,9 @@ Result management is a crucial part of every educational institution. Therefore 
 
 ## Course Details
 
+## Displaying Course Details
+
+![course](https://user-images.githubusercontent.com/43770452/226152856-363e1085-1906-42f7-8c69-f364f2590bc2.png)<br><br>
 
 ## Adding Course Details 
 
