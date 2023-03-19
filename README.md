@@ -58,8 +58,7 @@ For a new Registration you need to fill in certain information.
 
 Password and Confirmed password should be same
 
-![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png) (2*&nbsp;)
-
+![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png) (2 x &nbsp;)
 
 
 
