@@ -42,46 +42,11 @@ Result management is a crucial part of every educational institution. Therefore 
 
 
 
-
-
-
-
-
-## The software does not allow you to proceed until all the required details are entered .
-
-![login all field req](https://user-images.githubusercontent.com/43770452/226124459-96bb14c7-cc02-49b9-8bed-0761f298e849.png) <br><br>
-
-
-## Only an already registered user will be able to Login
-
-![login invalid](https://user-images.githubusercontent.com/43770452/226124248-86e367a5-ab0e-4552-b0dd-36af6eb1efa0.png)<br><br>
-
-
-## Fields of Mentioned Password and Confirmed password should be same
-
-![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png) <br><br>
-
-##Registration is Successful
-
-![registration success](https://user-images.githubusercontent.com/43770452/226153512-8716a56c-31f6-4644-a09d-4b01b5a7714e.png) <br><br>
-
-
-
-
 ## Login Portal
 
 ![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)<br><br>
 
 
-## Only an already registered user will be able to Login
-
-
-![login invalid (1)](https://user-images.githubusercontent.com/43770452/226153580-ab9f038b-1024-4bce-8f15-45db0b14b7e9.png)<br><br>
-
-
-## All Fields are required to Proceed
-
-![login all field req (1)](https://user-images.githubusercontent.com/43770452/226153618-14c1e912-79b1-404e-afd4-608b717c00ca.png) 
 
 
 
