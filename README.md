@@ -64,7 +64,7 @@ Password and Confirmed password should be same
 
 
 
-All fields are required to proceed.
+## All fields are required to proceed.
 
 ![login all field req](https://user-images.githubusercontent.com/43770452/226124459-96bb14c7-cc02-49b9-8bed-0761f298e849.png) <br><br>
 (&nbsp;  )
@@ -81,7 +81,7 @@ All fields are required to proceed.
 
 ## DASHBOARD
 
-The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
+## The main Dashboard has features of Course,Student Details,Student Marks,View Result,Logout and Exit
 
 ![dashboard](https://user-images.githubusercontent.com/43770452/226121070-8c2940b6-0121-45d3-b4cb-81ca161f4264.png) <br><br>
 
@@ -90,28 +90,28 @@ The main Dashboard has features of Course,Student Details,Student Marks,View Res
 
 ## STUDENT DETAILS
 
-Creating a new student record with Valid Data
+## Creating a new student record with Valid Data
 
 ![student added](https://user-images.githubusercontent.com/43770452/226126231-12f4694a-3536-46e9-a280-bc3ced86af55.png) <br><br>
 
 
-Displaying Existing Student Records
+## Displaying Existing Student Records
 
 ![all student added](https://user-images.githubusercontent.com/43770452/226126328-967d3c96-721d-40e3-9fe3-36e616e07524.png) <br><br>
 
-Updating an existing record with new data
+## Updating an existing record with new data
 
 ![student updated](https://user-images.githubusercontent.com/43770452/226126413-ab2203be-e9ec-41be-8dca-87120e1c627a.png) <br><br>
 
-Deleting an existing student record
+## Deleting an existing student record
 
 ![student delete](https://user-images.githubusercontent.com/43770452/226126620-70e7a7a7-f223-4eb6-8523-4e86cb8ef64e.png) <br><br>
 
-Roll no is required to search for a particular Student record
+## Roll no is required to search for a particular Student record
 
 ![update roll no  req](https://user-images.githubusercontent.com/43770452/226126674-0f2a920b-c730-4f12-817e-b631f43bd197.png) <br><br>
 
-Student record searched successfully using Roll No feature
+## Student record searched successfully using Roll No feature
 ![student search](https://user-images.githubusercontent.com/43770452/226126872-3e287a34-cf92-4344-a810-86ab7d6adb54.png)<br><br>
 
 
