@@ -67,7 +67,6 @@ Result management is a crucial part of every educational institution. Therefore 
 ## All fields are required to proceed.
 
 ![login all field req](https://user-images.githubusercontent.com/43770452/226124459-96bb14c7-cc02-49b9-8bed-0761f298e849.png) <br><br>
-(&nbsp;  )
 
 
 
