@@ -125,3 +125,8 @@ Student record searched successfully using Roll No feature
 Adding Course Details 
 
 ![course added](https://user-images.githubusercontent.com/43770452/226149292-56244b9b-8bbe-41b8-b1ab-e1f01b1997e9.png)
+
+
+Course Details Successfully searched using Course name
+
+![cs search  (1)](https://user-images.githubusercontent.com/43770452/226149332-8df13aca-9ade-48e7-93e1-1bab43fe1051.png)
