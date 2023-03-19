@@ -75,6 +75,7 @@ Result management is a crucial part of every educational institution. Therefore 
 
 
 ## RESULT PORTAL
+![no record without selecting student (1)](https://user-images.githubusercontent.com/43770452/226155286-2b3e2229-dd4f-47bb-9b22-e0f66bb3d293.png) <br><br>
 
 
 
