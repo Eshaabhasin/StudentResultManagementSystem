@@ -43,11 +43,11 @@ Result management is a crucial part of every educational institution. Therefore 
 
 ## Login Portal
 
-The Login Portal asks for your Email Address and Password for login.
+## The Login Portal asks for your Email Address and Password for login.
 
 ![login page](https://user-images.githubusercontent.com/43770452/226120564-a43904ce-41c4-47b8-9ec9-8628ffb710fc.png)<br><br>
 
-For a new Registration you need to fill in certain information.
+## For a new Registration you need to fill in certain information.
 
 ![registration ](https://user-images.githubusercontent.com/43770452/226121409-8caaf36e-dd23-4788-b96d-5cf020fe238f.png)<br><br>
 
@@ -56,7 +56,7 @@ For a new Registration you need to fill in certain information.
 ![login invalid](https://user-images.githubusercontent.com/43770452/226124248-86e367a5-ab0e-4552-b0dd-36af6eb1efa0.png)<br><br>
 
 
-Password and Confirmed password should be same
+## Password and Confirmed password should be same
 
 ![password and confirm pass](https://user-images.githubusercontent.com/43770452/226124300-cb2518a9-062e-4bed-858e-d3ecec6475f6.png) <br><br>
 
@@ -120,17 +120,17 @@ Password and Confirmed password should be same
 ## Course Details
 
 
-Adding Course Details 
+## Adding Course Details 
 
 ![course added](https://user-images.githubusercontent.com/43770452/226149292-56244b9b-8bbe-41b8-b1ab-e1f01b1997e9.png) <br><br>
 
 
-Course Details Successfully searched using Course name
+## Course Details Successfully searched using Course name
 
 ![cs search  (1)](https://user-images.githubusercontent.com/43770452/226149332-8df13aca-9ade-48e7-93e1-1bab43fe1051.png)<br><br>
 
 
-Course name is required for searching details of course
+## Course name is required for searching details of course
 
 
 ![course name req in update](https://user-images.githubusercontent.com/43770452/226149441-d39571bf-9674-44f4-a4ee-338d81592203.png)<br><br>
