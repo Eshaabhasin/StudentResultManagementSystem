@@ -74,3 +74,10 @@ Result management is a crucial part of every educational institution. Therefore 
 ![course](https://user-images.githubusercontent.com/43770452/226152856-363e1085-1906-42f7-8c69-f364f2590bc2.png)<br><br>
 
 
+## RESULT PORTAL
+
+
+
+## VIEWING STUDENT RESULT
+
+![view result](https://user-images.githubusercontent.com/43770452/226155216-5467cb31-8293-43df-9ef4-56d16866f4f5.png) <br><br>
